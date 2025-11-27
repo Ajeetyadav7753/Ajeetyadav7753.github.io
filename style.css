@@ -760,7 +760,7 @@ footer {
 
     .nav-links li {
         margin: 30px 0;
-        opacity: 0;
+        opacity: 1;
     }
 
     .nav-links.nav-active {
@@ -909,4 +909,5 @@ footer {
 }
 .projects-grid .project-item[data-aos][data-aos-delay].aos-animate {
     transition-delay: var(--aos-delay);
+
 }
