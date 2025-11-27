@@ -444,7 +444,7 @@ nav {
 .about-text {
     flex: 2;
     min-width: 350px;
-    text-align: left;
+    text-align: center;
 }
 
 .about-text p {
@@ -921,3 +921,4 @@ footer {
 .projects-grid .project-item[data-aos][data-aos-delay].aos-animate {
     transition-delay: var(--aos-delay);
 }
+
